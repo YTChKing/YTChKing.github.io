@@ -1,4 +1,4 @@
-# Página Web Sencilla
+# Dulce Pecado
 
 Este proyecto es una página web básica construida con HTML, Tailwind CSS y JavaScript.
 
